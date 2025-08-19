@@ -1,4 +1,4 @@
-📚 Library Management System (Java)
+📚 Library Management System 
 
 A simple Library and Inventory Management System built in Java.
 This project is a console-based application that helps in tracking books (for a library) or items (for inventory).
